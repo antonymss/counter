@@ -29,6 +29,7 @@ function App() {
                         name={'reset'}
                         isDisabled={counter === MIN_VALUE}
                         callBack={reset} />
+
                 </div>
             </div>
         </div>

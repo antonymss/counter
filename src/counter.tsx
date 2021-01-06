@@ -4,7 +4,7 @@ import React from 'react';
 type CountPropsType = {
      count: number
 }
-// dffbcbg
+// df
  function Count(props: CountPropsType) {
 
      return (
